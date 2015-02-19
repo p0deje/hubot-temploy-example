@@ -1,4 +1,4 @@
 start: script/temploy_start.sh
 stop: script/temploy_stop.sh
 ngrok_command: ngrok -log=stdout 8000
-ttl: 1
+ttl: 0.05
