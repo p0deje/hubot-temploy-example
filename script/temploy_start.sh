@@ -1,2 +1,2 @@
 #!/bin/bash
-nohup python -m SimpleHTTPServer &
+python -m SimpleHTTPServer 8000 2&> /dev/null &
